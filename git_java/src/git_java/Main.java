@@ -6,7 +6,6 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("test123");
 		System.out.println("Main에서 수정");
-
+		System.out.println("branch_test에서 수정");
 	}
-
 }
